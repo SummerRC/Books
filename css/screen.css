@@ -107,6 +107,17 @@ ul.posts {
     margin-left: 1em;
   }
 
+   .site .title a.SummerRC {
+    color: #aaa;
+    text-decoration: none;
+  }
+
+   .site .title a.extra_selected {
+    color: #a00;
+    text-decoration: none;
+    margin-left: 1em;
+  }
+
   .site .title a.extra:hover {
     color: black;
   }
